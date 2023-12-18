@@ -20,6 +20,20 @@
       "deadline": "2022-01-28",
       "completed": true,
       "archived": true
+    },
+    {
+      "title": "fajne zadanie",
+      "deadline": "2024-07-04",
+      "completed": true,
+      "archived": false,
+      "id": 14
+    },
+    {
+      "title": "mniej fajne zadanie",
+      "deadline": "2024-07-04",
+      "completed": false,
+      "archived": false,
+      "id": 15
     }
   ]
 }
